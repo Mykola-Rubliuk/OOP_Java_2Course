@@ -2,8 +2,7 @@
  * Our goal to fill all empty cells with correct values, which program validates
  * When all empty cells are filled, program displays that puzzle completed*/
 
-package assessment;
-
+package OOPCA1_MykolaRubliuk.src.assessment;
 import javax.swing.*;
 import java.awt.*;
 import java.util.Arrays;
